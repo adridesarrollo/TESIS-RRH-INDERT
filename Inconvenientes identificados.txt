@@ -1,0 +1,20 @@
+Problemas detectados en la institucion 
+
+1.Control de Asistencias
+-La permanencia en el trabajo:
+Algunos funcionarios marcan su entrada y desaparecen del lugar de trabajo para despues regresar y marcar su salida.
+
+No se cuenta con un metodo para controlar la permanencia en la oficina de los funcionarios.
+
+*Requisito:
+crear un sistema, que al conectarse con el usuario al sistema, indique de su presencia en el puesto, y si no se usa por mas de 10 o 15 minutos, arroja una alerta sobre ese funcionario. 
+En caso de retirarse el usuario deberia solicitar un permiso especificando el motivo, desde su lugar de trabajo, a traves del sistema. 
+
+Y ese formulario llena el funcionario , le firma su jefe y director de area , y se debe registrar en el legajo digital y tambien va a su legajo personal , o sea a su carpeta
+
+2. Problemas con la clave asignada a los usuarios 
+
+El sistema actualmente no permite realizar un cambio de clave de acceso al usuario 
+
+*Requisito: El sistema debe posibilitar al usuario el cambio de su clave de acceso
+
